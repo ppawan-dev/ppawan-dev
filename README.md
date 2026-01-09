@@ -1,7 +1,7 @@
 # Pawan Pugliya
-## Fullstack Engineer
+## AI-First Fullstack Engineer
 
-Find me on [<img alt-text="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pawan-pugliya-30b24483/)
+Find me on [<img alt-text="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pawan-pugliya)
 
 ### Summary
 - 15+ years of IT experience, including 8+ years in front-end development with modern **JavaScript/TypeScript** and 6 years in **Java/J2EE/Spring boot**.
