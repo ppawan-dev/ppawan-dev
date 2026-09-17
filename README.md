@@ -1,43 +1,30 @@
-# Pawan Pugliya
-## AI-First Fullstack Engineer
+# Pawan Pugliya - Senior Tech Lead
 
-Find me on [<img alt-text="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pawan-pugliya)
+### Focused on building scalable frontend architectures, resilient distributed systems, and real-time AI toolchains.
 
-### Summary
-- 15+ years of IT experience, including 8+ years in front-end development with modern **JavaScript/TypeScript** and 6 years in **Java/J2EE/Spring boot**.
-- Extensive hands-on experience building responsive web applications and single-page applications using technologies like **React, Angular, LitElement, HTML5/CSS3**, and cross-browser development.
-- Deep understanding of client-server architecture, algorithms, data structures, and front-end development tools.
-- Experienced in developing scalable solutions for major insurance and banking clients across Germany and France.
-- Proficient in TDD/BDD using tools such as **Jest, React Testing Library, Cypress, and Selenium**.
-- Strong in **SOLID** principles, **design patterns**, and clean coding standards for both front-end and back-end systems.
-- Skilled in integrating micro-frontend and backend services using **Docker, Azure DevOps, Kubernetes**, **and CI/CD pipelines**.
-- Knowledge of Java/J2EE technologies, including **Spring Boot, Spring Security, Hibernate, and Kafka**.
-- Experienced with databases such as **Oracle, MySQL, and MongoDB**, and build tools like **Maven, Gradle, and Webpack**.
-- Agile **team player** and experienced scrum master, focused on **application optimization, process improvement, and team collaboration**.
+### ⚡ Currently Building
+* **[Project Alpha]** — Lightweight vector-search orchestrator built with Rust & TypeScript.
+* **Architecture Notes** — Documenting system trade-offs on micro-frontends vs. monorepos.
 
+### 🛠️ Core Tech Stack
+* **Languages & Core:** TypeScript, JavaScript (ESNext), Node.js, Java, Python
+* **Frontend & Frameworks:** React, NextJs, Vite, Angular, Redux, Redux Toolkit (RTK), NgRx, RxJS
+* **Backend & Frameworks:** Spring Boot, Spring WebFlux, Express JS, FastAPI,
+* **Architecture & Patterns:** Micro Frontends, Webpack, Backend-for-Frontend (BFF), GraphQL, REST APIs, Feature Flags, A/B testing
+* **Cloud Platform:** AWS (EC2, Lambda, S3, RDS, CloudWatch), Docker, Kubernetes, Serverless
+* **Databases:** PostgreSQL, MySQL, Oracle, MongoDB, Cassandra
+* **Developer Experience:** Storybook, GitHub Actions, GitLab CI/CD, Secure Coding, CI/CD Automation
+* **AI-Assisted Engineering:** GitHub Copilot, Claude, Gemini, Codex
 
-### Skills
-- Java, 
-- Spring Boot
-- Hibernate
-- Restful web services (JSON/GraphQL)
-- JavaScript
-- Web components
-- Angular
-- React
-- LitElement
-- HTML5/CSS3
-- Responsive Web Design
+### 🌐 Featured Production & Open-Source Work
+| Project | Description | Stack | Live Demo |
+| :--- | :--- | :--- | :--- |
+| **[Wise Compare Service ](https://github.com/ppawan-dev/wise-compare-service)** | Microservice (RESTful & GraphQL) for WISE transfer rate comparison. | Java, Spring Boot | [NA](#) |
+| **[Microfrontend (Vite)](https://github.com/ppawan-dev/micro-frontend-vite-host)** | Microfrontend app using the Vite parent and Vite child | React, Vite, Vite federation | [NA](#) |
+| **[Microfrontend (Create React App)](https://github.com/ppawan-dev/micro-frontend-cra-host)** |Microfrontend app using Create React App parent and child | React, Webpack module federation | [NA](#) |
+| **[Yt Blocker](https://github.com/ppawan-dev/yt-blocker)** | Its a browser extension to block selected Youtube channels | React, Vite, MDN APIs | [NA](#) |
 
-### DevOps
-- GitHub actions
-- Openshift
-- Kubernetes
-- Gitlab runner
-- Azure pipelines
+---
 
-### Agile Tools
-- Azure DevOps
-- JIRA
-- Confluence
-
+### 📬 Connect
+[<img alt-text="linkedin" src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" width="20px" height="20px" /> LinkedIn](https://www.linkedin.com/in/pawan-pugliya)
