@@ -3,7 +3,7 @@
 ### Focused on building scalable frontend architectures, resilient distributed systems, and real-time AI toolchains.
 
 ### ⚡ Currently Building
-* **[Project Alpha]** — Lightweight vector-search orchestrator built with Rust & TypeScript.
+* **[Project Alpha]** — Lightweight vector-search orchestrator.
 * **Architecture Notes** — Documenting system trade-offs on micro-frontends vs. monorepos.
 
 ### 🛠️ Core Tech Stack
