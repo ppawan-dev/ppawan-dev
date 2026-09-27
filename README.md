@@ -23,7 +23,8 @@
 | **[Microfrontend (Vite)](https://github.com/ppawan-dev/micro-frontend-vite-host)** | Microfrontend app using the Vite parent and Vite child | React, Vite, Vite federation | [NA](#) |
 | **[Microfrontend (Create React App)](https://github.com/ppawan-dev/micro-frontend-cra-host)** |Microfrontend app using Create React App parent and child | React, Webpack module federation | [NA](#) |
 | **[Yt Blocker](https://github.com/ppawan-dev/yt-blocker)** | Its a browser extension to block selected Youtube channels | React, Vite, MDN APIs | [NA](#) |
-|**[(AI Agent) Vector DB Neo4j](https://github.com/ppawan-dev/vector-db-neo4j)**|A command-line AI agent built with LangGraph. It answers questions by searching text properties in a Neo4j database| [NA](*)|
+|**[(AI Agent) Vector DB Neo4j](https://github.com/ppawan-dev/vector-db-neo4j)**|A command-line AI agent built with LangGraph. It answers questions by searching text properties in a Neo4j database| Python, Neo4j, OpenAI, Langchain |[NA](*)|
+|**[(AI Agent) Vector DB Neo4j Js](https://github.com/ppawan-dev/vector-db-neo4j-js)**|A command-line AI agent built with LangGraph. It answers questions by searching text properties in a Neo4j database| Javascript, Neo4j, OpenAI, Langchain |[NA](*)|
 
 ---
 
