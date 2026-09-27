@@ -16,7 +16,7 @@
 * **Developer Experience:** Storybook, GitHub Actions, GitLab CI/CD, Secure Coding, CI/CD Automation
 * **AI-Assisted Engineering:** GitHub Copilot, Claude, Gemini, Codex
 
-### 🌐 Featured Production & Open-Source Work
+### 🌐 Featured Production & Project Work
 | Project | Description | Stack | Live Demo |
 | :--- | :--- | :--- | :--- |
 | **[Wise Compare Service ](https://github.com/ppawan-dev/wise-compare-service)** | Microservice (RESTful & GraphQL) for WISE transfer rate comparison. | Java, Spring Boot | [NA](#) |
