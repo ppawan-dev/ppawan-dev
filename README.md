@@ -19,7 +19,7 @@
 ### 🌐 Featured Production & Project Work
 | Project | Description | Stack | Live Demo |
 | :--- | :--- | :--- | :--- |
-| **[Wise Compare Service ](https://github.com/ppawan-dev/wise-compare-service)** | Microservice (RESTful & GraphQL) for WISE transfer rate comparison. | Java, Spring Boot | [NA](#) |
+| **[Wise Compare Service ](https://github.com/ppawan-dev/wise-compare-service)** | Microservice (RESTful & GraphQL) for transfer WISE rate comparison. | Java, Spring Boot | [NA](#) |
 | **[Microfrontend (Vite)](https://github.com/ppawan-dev/micro-frontend-vite-host)** | Microfrontend app using the Vite parent and Vite child | React, Vite, Vite federation | [NA](#) |
 | **[Microfrontend (Create React App)](https://github.com/ppawan-dev/micro-frontend-cra-host)** |Microfrontend app using Create React App parent and child | React, Webpack module federation | [NA](#) |
 | **[Yt Blocker](https://github.com/ppawan-dev/yt-blocker)** | Its a browser extension to block selected Youtube channels | React, Vite, MDN APIs | [NA](#) |
