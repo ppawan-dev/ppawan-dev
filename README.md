@@ -4,7 +4,7 @@
 
 ### ⚡ Currently Building
 * **[Project Alpha]** — Lightweight vector-search orchestrator.
-* **Architecture Notes** — Documenting system trade-offs on micro-frontends vs. monorepos.
+* **Architecture Notes** — [Documenting system trade-offs on micro-frontends vs. monorepos.](https://github.com/ppawan-dev/ppawan-dev/blob/master/MFE_vs_Monorepos_in_React.md)
 
 ### 🛠️ Core Tech Stack
 * **Languages & Core:** TypeScript, JavaScript (ESNext), Node.js, Java, Python
